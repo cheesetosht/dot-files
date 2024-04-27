@@ -45,7 +45,7 @@ header:
 - Iteratively explored and implemented UI patterns using my custom SCSS library, Bootstrap, Chakra UI, and Tailwind CSS to achieve design goals.
 - Implemented and enhanced a system enabling my team to create landing pages featuring **advanced animations** within hours instead of days.
 
-<u>Tech Stack</u>: Javascript(Typescript), Next.js, NodeJS, Express, PostgreSQL, Redis, WebSockets, Tailwind, Docker, Framer motion, GSAP, Matter.js, React Native, Terraform, AWS Lambda, Golang, Python, Metabase, Mixpanel
+<u>Tech Stack</u>: Javascript(Typescript), Next.js, NodeJS, Database Design, PostgreSQL, Express, Redis, WebSockets, Tailwind, Docker, Framer motion, GSAP, Matter.js, React Native, Terraform, AWS Lambda, Golang, Python, Metabase, Mixpanel
 
 <br>
 
