@@ -30,6 +30,7 @@
     font-family: "Garamond", serif;
     text-align: left;
     line-height: 0.8;
+    margin-top: -0.4em;
     letter-spacing: 0.03em;
 }
 
@@ -114,7 +115,8 @@
 /* SVG & Images */
 
 #vue-smart-pages-preview svg.iconify {
-    vertical-align: -0.16em;
+    vertical-align: text-top;
+    font-size: 1.2em;
 }
 
 #vue-smart-pages-preview img {

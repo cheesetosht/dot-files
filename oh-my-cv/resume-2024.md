@@ -2,16 +2,16 @@
 name: VRAJ SHAH
 header:
   - text: <span class="role">SOFTWARE ENGINEER</span>
-  - text: <span class="iconify" data-icon="lucide:bug"></span> cheesetosht.xyz
+  - text: <span class="iconify" data-icon="ph:globe-simple"></span> cheesetosht.xyz
     link: https://cheesetosht.xyz
     newLine: true
-  - text: <span class="iconify" data-icon="lucide:linkedin"></span> cheesetosht
+  - text: <span class="iconify" data-icon="ph:linkedin-logo"></span> cheesetosht
     link: https://www.linkedin.com/in/cheesetosht/
-  - text: <span class="iconify" data-icon="lucide:github"></span> cheesetosht
+  - text: <span class="iconify" data-icon="ph:github-logo"></span> cheesetosht
     link: https://github.com/cheesetosht
-  - text: <span class="iconify" data-icon="lucide:mail-open"></span> cheesetosht@gmail.com
+  - text: <span class="iconify" data-icon="ph:envelope"></span> cheesetosht@gmail.com
     link: mailto:cheesetosht@gmail.com
-  - text: <span class="iconify" data-icon="lucide:phone"></span> 97270-57419
+  - text: <span class="iconify" data-icon="ph:phone"></span> 97270-57419
     link: tel:+919727057419
 ---
 
