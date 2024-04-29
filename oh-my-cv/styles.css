@@ -22,23 +22,27 @@
 /* Header */
 
 #vue-smart-pages-preview .resume-header {
+    font-family: "Cambria", serif;
     text-align: left;
-    font-size: 1.1em;
+}
+
+#vue-smart-pages-preview .resume-header-item {
+    font-size: 1.2em;
 }
 
 #vue-smart-pages-preview .resume-header h1 {
-    font-family: "Garamond", serif;
+    display: inline-block;
     text-align: left;
-    line-height: 0.8;
+    line-height: 1;
     margin-top: -0.4em;
-    letter-spacing: 0.03em;
+    margin-right: 0.1em;
+    letter-spacing: 0.02em;
 }
 
 #vue-smart-pages-preview .resume-header .role {
-    font-family: "Garamond", serif;
-    font-size: 100%;
-    line-height: 1.8;
-    letter-spacing: 0.14em;
+    font-style: italic;
+    line-height: 1;
+    letter-spacing: 0.04em;
 }
 
 #vue-smart-pages-preview .resume-header-item:not(.no-separator)::after {
@@ -60,12 +64,11 @@
 #vue-smart-pages-preview h2,
 #vue-smart-pages-preview h3 {
     margin: 0.8em 0 0.4em;
-    font-size: 1.2em;
+    font-size: 1.08em;
 }
 
 #vue-smart-pages-preview h2 {
-    font-family: "Garamond", serif;
-    letter-spacing: 0.03em;
+    font-family: "Helvetica", "Arial";
 }
 
 #vue-smart-pages-preview h2 {

@@ -1,7 +1,7 @@
 ---
-name: VRAJ SHAH
+name: Vraj Shah
 header:
-  - text: <span class="role">SOFTWARE ENGINEER</span>
+  - text: <span class="role">Software Engineer</span>
   - text: <span class="iconify" data-icon="ph:globe-simple"></span> cheesetosht.xyz
     link: https://cheesetosht.xyz
     newLine: true
@@ -45,7 +45,7 @@ header:
 - Iteratively explored and implemented UI patterns using my custom SCSS library, Bootstrap, Chakra UI, and Tailwind CSS to achieve design goals.
 - Implemented and enhanced a system enabling my team to create landing pages featuring **advanced animations** within hours instead of days.
 
-<u>Tech Stack</u>: Javascript(Typescript), Next.js, NodeJS, Database Design, PostgreSQL, Express, Redis, WebSockets, Tailwind, Docker, Framer motion, GSAP, Matter.js, React Native, Terraform, AWS Lambda, Golang, Python, Metabase, Mixpanel
+*<u>Tech Stack</u>: Technical Leadership, Code review, Javascript(Typescript), Next.js, NodeJS, Database Design, PostgreSQL, Express, Redis, WebSockets, Tailwind, Docker, Framer motion, GSAP, Matter.js, React Native, Terraform, AWS Lambda, Golang, Python, Metabase, Mixpanel*
 
 <br>
 
@@ -59,7 +59,7 @@ header:
 - Established a **custom SCSS design system** to achieve pixel-perfect interfaces and streamline development.
 - Learnt and implemented Next.js on the fly to meet project requirements.
 
-<u>Tech Stack</u>: Javascript, Next.js, SCSS
+*<u>Tech Stack</u>: Javascript, Next.js, SCSS*
 
 
 ## EDUCATION
