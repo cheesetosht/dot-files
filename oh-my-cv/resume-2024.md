@@ -38,7 +38,7 @@ header:
 
 - Laid strong foundations for a web application architecture prioritizing extensibility, modularity, and scalability.
 - Setup CI/CD pipelines using tools like Terraform, AWS Lambda, Docker, ECR, EC2 and Amplify.
-- Designed & deployed a **monorepo architecture** (Next.js) to deliver a seamless user experience, with static landing pages for SEO and an SSR dashboard for dynamic content.
+- Designed & deployed a **monorepo architecture** (Next.js) to deliver a seamless user experience, with static landing pages for SEO and an SSR dashboard for dynamic content (micro-frontends).
 - Contributed to a React Native-based design platform enabling **dynamic, backend-driven UIs (via JSON schema)** for web and mobile, including the development of a cross-platform design system.
 - Architected interactive features, including **real-time group chat**, a video repository, and voice chat for a dynamic user experience.
 - Designed and implemented a **Tailwind-based headless component library** (prior to the existence of shadcn) with an aim to have a stable yet flexible design system.
@@ -59,7 +59,7 @@ header:
 - Established a **custom SCSS design system** to achieve pixel-perfect interfaces and streamline development.
 - Learnt and implemented Next.js on the fly to meet project requirements.
 
-*<u>Tech Stack</u>: Javascript, Next.js, SCSS*
+*<u>Tech Stack</u>: Javascript, Next.js, Webpack SCSS*
 
 
 ## EDUCATION
